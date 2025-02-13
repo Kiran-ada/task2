@@ -1,0 +1,17 @@
+h1{
+    background-color: aquamarine;
+    color: rgb(0,0,0);
+    border-radius: 15px;
+}
+body{
+    background-color: bisque;
+}
+#obj{
+    color: whitesmoke;
+    background-color:indianred;
+    border-radius: 15px;
+    height: 30px;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
